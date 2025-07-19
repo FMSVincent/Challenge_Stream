@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * ConverƟr une liste de chaînes de caractères en liste de leur longueur respective
+ * Convertir une liste de chaînes de caractères en liste de leur longueur respective
  */
 public class lvl2_3 {
     public static void main(String[] args) {
